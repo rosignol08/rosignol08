@@ -1,7 +1,7 @@
 # Rosignol
 
 ## 🎯 À propos  
-Étudiant en troisième année de Licence Informatique à l'Université Paris 8, je souhaite me spécialiser en master pour approfondir mes compétences dans un domaine qui me passionne.  
+Étudiant en troisième année de Licence Informatique à l'Université Paris 8.  
 
 ## 📚 Formations  
 ### 2022 - Aujourd'hui | **Licence Informatique** | Université Paris 8  
