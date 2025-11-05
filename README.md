@@ -4,7 +4,9 @@
 Étudiant en troisième année de Licence Informatique à l'Université Paris 8.  
 
 ## 📚 Formations  
-### 2022 - Aujourd'hui | **Licence Informatique** | Université Paris 8  
+### 2025 - aujourd'hui | **Master Informatique** | Université Paris 6
+- pareil
+### 2022 - 2025 | **Licence Informatique** | Université Paris 8  
 - Algorithmique avancée  
 - Intelligence artificielle  
 - Programmation orientée objet  
