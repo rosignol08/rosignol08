@@ -1,11 +1,11 @@
 # Rosignol
 
-## 🎯 À propos  
-Étudiant en troisième année de Licence Informatique à l'Université Paris 8.  
+## À propos  
+Étudiant en M1 Master Informatique à l'Université Paris 6.  
 
-## 📚 Formations  
+## Formations  
 ### 2025 - aujourd'hui | **Master Informatique** | Université Paris 6
-- pareil
+- SESI
 ### 2022 - 2025 | **Licence Informatique** | Université Paris 8  
 - Algorithmique avancée  
 - Intelligence artificielle  
@@ -18,7 +18,7 @@
 - Section européenne Allemand  
 - Certification PIX  
 
-## 🛠️ Compétences  
+## Compétences  
 ### **Développement Web**  
 - HTML, CSS, JavaScript  
 
@@ -36,7 +36,7 @@
 - **Graphisme & Simulation** : Plant Factory, Vue 3D, CoppeliaSim Edu, Webots  
 - **3D & Shaders** : Three.js, Raylib, OpenGL  
 
-## 🔬 Projets  
+## Projets  
 - [Création d'un écosystème en C++](#)  
 - [Création d’un réseau neuronal sans lib en C](#)  
 - [Simulation de réseau de métro en C](#)  
@@ -49,20 +49,19 @@
 - [Système de vote chiffré](#)  
 - [Projet de recherche sur la génération de sous-bois en 3D en C++](#)  
 
-## 💡 Contributions  
+## Contributions  
 - [scikit-fda](https://github.com/GAA-UAM/scikit-fda) : Ajout de nouvelles fonctions d'erreur et refonte de certains paramètres.  
 
-## 🌍 Langues  
-- **Anglais** : B2  
+## Langues  
+- **Anglais** : C1
 - **Allemand** : B1  
 
-## 🎭 Centres d'intérêt  
+## Centres d'intérêt  
 - Photographie  
 - Histoire  
-- Sport (musculation)  
-- Création de jeux vidéo en équipe  
+- Création de jeux vidéo
 
-## 📬 Contacts  
-- **Email** : rchaffray@gmail.com  
+## Contacts  
+- **Email** : rchaffray@gmail.com
 - **Portfolio** : [romaric.site](https://romaric.site)  
 - **LinkedIn** : [Mon LinkedIn](#)  
