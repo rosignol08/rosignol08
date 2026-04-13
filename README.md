@@ -1,10 +1,10 @@
 # Rosignol
 
 ## À propos  
-Étudiant en M1 Master Informatique à l'Université Paris 6.  
+Étudiant en M1 Master Informatique à Sorbonne Université.  
 
 ## Formations  
-### 2025 - aujourd'hui | **Master Informatique** | Université Paris 6
+### 2025 - aujourd'hui | **Master Informatique** | Sorbonne Université
 - SESI
 ### 2022 - 2025 | **Licence Informatique** | Université Paris 8  
 - Algorithmique avancée  
